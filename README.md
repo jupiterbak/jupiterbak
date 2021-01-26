@@ -47,4 +47,4 @@ Here are some ideas to get you started:
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
-![TCP/IP](https://img.shields.io/badge/-TCP%2FIP-000?&logo=Cisco)
+![Jupyter](https://img.shields.io/badge/-Jupyter-000?&logo=Jupyter&logoColor=23F37626)
