@@ -5,7 +5,8 @@ I'm Jupiter.
 <p align='center'>For enquiries, reach out jupiter.bakakeu@gmail.com or over on <a href="https://twitter.com/JBakakeu">Twitter</a>.</p>
 
 <h1 align='center'><i>Stay awesome!</i></h1>
-<p align='center'>![Jupiter's github stats](https://github-readme-stats.vercel.app/api?username=jupiterbak&show_icons=true&theme=radical)</p>
+
+![Jupiter's github stats](https://github-readme-stats.vercel.app/api?username=jupiterbak&show_icons=true&theme=radical)
 
 
 
