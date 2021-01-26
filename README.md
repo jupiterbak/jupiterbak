@@ -37,7 +37,6 @@ Here are some ideas to get you started:
 ![numpy](https://img.shields.io/badge/numpy-000?&logo=numpy&logoColor=23013243)
 ![pandas](https://img.shields.io/badge/pandas-000?&logo=pandas&logoColor=23150458)
 ![Keras](https://img.shields.io/badge/Keras-000?&logo=Keras&logoColor=23D00000)
-
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=FF9900)
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-000?&logo=CircleCI&logoColor=888)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
@@ -48,3 +47,5 @@ Here are some ideas to get you started:
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-000?&logo=Jupyter&logoColor=23F37626)
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-000?&logo=elasticsearch&logoColor=005571)
+![ElasticSearch](https://img.shields.io/badge/Flutter-000?&logo=Flutter&logoColor=2302569B)
