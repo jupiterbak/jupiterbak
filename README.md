@@ -33,10 +33,10 @@ Here are some ideas to get you started:
 ### Technologies
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-000?&logo=PyTorch&logoColor=23EE4C2C)
-![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira-Software&logoColor=0052CC)
-![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira-Software&logoColor=0052CC)
-![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira-Software&logoColor=0052CC)
-![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira-Software&logoColor=0052CC)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000?&logo=TensorFlow&logoColor=TensorFlow)
+![numpy](https://img.shields.io/badge/numpy-000?&logo=numpy&logoColor=23013243)
+![pandas](https://img.shields.io/badge/pandas-000?&logo=pandas&logoColor=23150458)
+![Keras](https://img.shields.io/badge/Keras-000?&logo=Keras&logoColor=23D00000)
 
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=FF9900)
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-000?&logo=CircleCI&logoColor=888)
