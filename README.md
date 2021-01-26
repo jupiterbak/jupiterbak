@@ -54,6 +54,5 @@ Here are some ideas to get you started:
 
 ### Contacts
 
-<p align='center'>For enquiries, reach out jupiter.bakakeu@gmail.com or over on <a href="https://twitter.com/JBakakeu">Twitter</a>.</p>
+For enquiries, reach out jupiter.bakakeu@gmail.com or over on <a href="https://twitter.com/JBakakeu">Twitter</a>
 
-<h1 align='center'><i>Stay awesome!</i></h1>
