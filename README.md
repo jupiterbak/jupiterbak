@@ -1,4 +1,14 @@
+<h1 align='center'> Hi! :wave:</h1>
+<p align='center'>
+I'm Jupiter.
+</p>
+<p align='center'>For enquiries, reach out jupiter.bakakeu@gmail.com or over on <a href="https://twitter.com/JBakakeu">Twitter</a>.</p>
+
+<h1 align='center'><i>Stay awesome!</i></h1>
+
+
 ![Metrics](https://metrics.lecoq.io/jupiterbak?template=classic&config.timezone=Europe%2FBerlin&config.animated=true)
+
 <!--
 **jupiterbak/jupiterbak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hi there 👋
