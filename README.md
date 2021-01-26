@@ -1,17 +1,7 @@
-<h1 align='center'> Hi! :wave:</h1>
-<p align='center'>
-I'm Jupiter.
-</p>
-<p align='center'>For enquiries, reach out jupiter.bakakeu@gmail.com or over on <a href="https://twitter.com/JBakakeu">Twitter</a>.</p>
-
-<h1 align='center'><i>Stay awesome!</i></h1>
-
-![Jupiter's github stats](https://github-readme-stats.vercel.app/api?username=jupiterbak&show_icons=true&theme=radical)
-
-
+![Metrics](https://metrics.lecoq.io/jupiterbak?template=classic&config.timezone=Europe%2FBerlin&config.animated=true)
 
 <!--
-![Metrics](https://metrics.lecoq.io/jupiterbak?template=classic&config.timezone=Europe%2FBerlin&config.animated=true)
+
 **jupiterbak/jupiterbak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hi there 👋
 Here are some ideas to get you started:
@@ -61,3 +51,12 @@ Here are some ideas to get you started:
 ![Jupyter](https://img.shields.io/badge/-Jupyter-000?&logo=Jupyter&logoColor=23F37626)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-000?&logo=elasticsearch&logoColor=005571)
 ![ElasticSearch](https://img.shields.io/badge/Flutter-000?&logo=Flutter&logoColor=2302569B)
+
+
+<h1 align='center'> Hi! :wave:</h1>
+<p align='center'>
+I'm Jupiter.
+</p>
+<p align='center'>For enquiries, reach out jupiter.bakakeu@gmail.com or over on <a href="https://twitter.com/JBakakeu">Twitter</a>.</p>
+
+<h1 align='center'><i>Stay awesome!</i></h1>
