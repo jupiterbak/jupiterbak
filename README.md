@@ -1,3 +1,5 @@
+![Metrics](https://metrics.lecoq.io/jupiterbak)
+
 ### Hi there 👋
 
 <!--
