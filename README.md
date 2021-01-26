@@ -52,11 +52,8 @@ Here are some ideas to get you started:
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-000?&logo=elasticsearch&logoColor=005571)
 ![ElasticSearch](https://img.shields.io/badge/Flutter-000?&logo=Flutter&logoColor=2302569B)
 
+### Contacts
 
-<h1 align='center'> Hi! :wave:</h1>
-<p align='center'>
-I'm Jupiter.
-</p>
 <p align='center'>For enquiries, reach out jupiter.bakakeu@gmail.com or over on <a href="https://twitter.com/JBakakeu">Twitter</a>.</p>
 
 <h1 align='center'><i>Stay awesome!</i></h1>
