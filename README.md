@@ -1,4 +1,4 @@
-![Metrics](https://metrics.lecoq.io/jupiterbak)
+![Metrics](https://metrics.lecoq.io/jupiterbak?template=classic&config.timezone=Europe%2FBerlin&config.animated=true)
 
 ### Hi there 👋
 
